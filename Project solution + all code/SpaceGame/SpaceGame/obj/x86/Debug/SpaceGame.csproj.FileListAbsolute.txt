@@ -1,0 +1,72 @@
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\SpriteFont.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\background.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\bulletBlue.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\bulletRed.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\bulletYellow.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\healthbar.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Player.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\SpaceGame.exe
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\SpaceGame.pdb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.csprojResolveAssemblyReference.cache
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.exe
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.pdb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\astroid.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\explosion.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\explosion1.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\fighter.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\rusher.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Menu.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\playerDestroyed.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\explosionSound.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\playerShot.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\shipDestroyed.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\kaboom.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\explosion9.xnb
+C:\CS Projects\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\explosion34.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.exe
+D:\SpaceGame\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.pdb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\SpriteFont.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\background.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\healthbar.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Player.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\astroid.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\bulletBlue.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\bulletRed.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\bulletYellow.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\explosion.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\explosion1.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\fighter.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\rusher.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Menu.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\kaboom.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\explosion9.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\explosion34.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\playerDestroyed.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\explosionSound.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\playerShot.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\shipDestroyed.xnb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\SpaceGame.exe
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\SpaceGame.pdb
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\SpaceGame\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.csprojResolveAssemblyReference.cache
+D:\SpaceGame\SpaceGame\SpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
